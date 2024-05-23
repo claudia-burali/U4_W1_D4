@@ -1,4 +1,5 @@
 import entities.Employee;
+import entities.FTEmployee;
 import entities.Manager;
 import entities.PTEmployee;
 import enums.Department;

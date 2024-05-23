@@ -1,4 +1,5 @@
-import entities.Employee;
+package entities;
+
 import enums.Department;
 
 public class FTEmployee extends Employee {
